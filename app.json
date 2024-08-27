@@ -2,7 +2,7 @@
     "id": "12eacc5c-c457-44fe-ad39-c020e45fcd3e",
     "name": "TableExtensionFournisseurs",
     "publisher": "Lopez Nicolas",
-    "version": "1.0.0.8",
+    "version": "1.0.1.0",
     "brief": "Extension for adding fields into the Vendor table",
     "description": "This extension adds fields into the Vendor table",
     "privacyStatement": "",
@@ -27,6 +27,7 @@
     },
     "runtime": "13.0",
     "features": [
-        "NoImplicitWith"
+        "NoImplicitWith",
+        "TranslationFile"
     ]
 }

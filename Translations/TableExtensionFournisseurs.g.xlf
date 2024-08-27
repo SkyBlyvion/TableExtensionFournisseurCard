@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="TableExtensionFournisseurs">
+    <body>
+      <group id="body">
+        <trans-unit id="PageExtension 3967244019 - Control 3168755028 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Affiche la date de création de la fiche fournisseur.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VendorCardExtension - Control Date de création - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3967244019 - Control 3429784581 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Affiche une adresse e-mail secondaire pour le fournisseur.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VendorCardExtension - Control E-Mail 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3967244019 - Control 3782001719 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Affiche le port de destination des marchandises.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VendorCardExtension - Control Port destination - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3967244019 - Control 758243890 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Affiche le port de chargement des marchandises.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VendorCardExtension - Control Port of Loading - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3967244019 - Control 2998538439 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4055858012">
+          <source>Affiche la remise accordée par le fournisseur.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VendorCardExtension - Control Remise - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 235186744 - Field 3168755028 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Date de création de la fiche</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TableExtensionFournisseur - Field Date de création - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 235186744 - Field 3429784581 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>E-Mail 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TableExtensionFournisseur - Field E-Mail 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 235186744 - Field 3077357015 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Incoterms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TableExtensionFournisseur - Field Incoterm - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 235186744 - Field 3782001719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Port destination</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TableExtensionFournisseur - Field Port destination - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 235186744 - Field 758243890 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Port of Loading</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TableExtensionFournisseur - Field Port of Loading - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 235186744 - Field 2998538439 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
+          <source>Remise</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TableExtensionFournisseur - Field Remise - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

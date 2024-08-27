@@ -50,17 +50,9 @@ tableextension 50011 TableExtensionFournisseur extends Vendor
             Description = 'FOURNISSEUR LN 05/06/24 REV24'; // Description du champ
         }
     }
-
-    keys
-    {
-        // Ajouter les modifications aux clés ici si nécessaire
-    }
-
-    fieldgroups
-    {
-        // Ajouter les modifications aux groupes de champs ici si nécessaire
-    }
-
-    var
-        myInt: Integer; // Exemple de variable déclarée dans l'extension de table
+    trigger OnInsert()
+    begin
+        if "Date de création" = 0D then
+            "Date de création" := Today();
+    end;
 }

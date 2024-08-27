@@ -48,20 +48,4 @@ pageextension 50012 VendorCardExtension extends "Vendor Card"
         }
     }
 
-    actions
-    {
-        // Add custom actions here if necessary
-    }
-
-    // Verification de la presence de la date de création, if no then set it
-    trigger OnOpenPage()
-    var
-        VendorRec: Record Vendor;
-    begin
-        VendorRec.Get(Rec."No.");
-        if VendorRec."Date de création" = 0D then begin
-            VendorRec."Date de création" := Today();
-            VendorRec.Modify(true);
-        end;
-    end;
 }
